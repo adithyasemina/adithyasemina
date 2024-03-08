@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">An Undergraduate in NSBM Green University.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adithyasemina&label=Profile%20views&color=0e75b6&style=flat" alt="adithyasemina" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" alt="adithyasemina" /> </p>
 
 <img align="right" alt="Coding" width="350" margin="100px" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75"> </p>
 
