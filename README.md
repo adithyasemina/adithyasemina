@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">An Undergraduate in NSBM Green University.</h3>
-<img align="right" alt="Coding" width="350" margin="100px" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"> </p>
+<img align="right" alt="Coding" width="350" margin="100px" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"><br><br>
 
 - 🌱 I'm an Undergraduate, Studying **Software Engineering.**
 - 📫 How to reach me **seminaadithya@gmail.com**
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,12 +21,11 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 <h3 align="left">My Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyasemina&show_icons=true&locale=en" alt="adithyasemina" />  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyasemina&" alt="adithyasemina" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=adithyasemina&show_icons=true&locale=en" alt="adithyasemina" />  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyasemina&" alt="adithyasemina" />
