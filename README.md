@@ -2,8 +2,8 @@
 <h3 align="center">An Undergraduate in NSBM Green University.</h3>
 <img align="right" alt="Coding" width="350" margin="100px" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif"><br><br>
 
-- 🌱 I'm an Undergraduate, Studying **Software Engineering.**
-- 📫 How to reach me **seminaadithya@gmail.com**
+- 🎓 I'm an Undergraduate, Studying **Software Engineering.**
+- 📫 Mail me **seminaadithya@gmail.com**
   <br>
 
 <h3 align="left">Languages and Tools:</h3>
